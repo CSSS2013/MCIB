@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Cross-Impact Balance
+Bundle-SymbolicName: edu.csss2013.cib
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: CSSS 2013
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: edu.csss2013.cib
